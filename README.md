@@ -2,7 +2,7 @@
 
 🎥Gif Project:
 
-![img] (https://github.com/Michell93/mario.html/blob/main/mario/Mario%20Game.gif)
+<img src="./Mario Game.gif" alt="Mario">
 
 ## Sobre o jogo:
 
